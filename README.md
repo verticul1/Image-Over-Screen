@@ -25,3 +25,10 @@ You need Python 3.x and the following packages to run the code:
 - Pillow  
 - keyboard  
 - tkinter (built-in)
+
+## Installation
+
+You need Python 3.x installed. Then install the required packages:
+
+```bash
+pip install Pillow keyboard
