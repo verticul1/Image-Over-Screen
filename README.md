@@ -18,7 +18,7 @@ A simple Windows app to display an image on top of other windows. You can adjust
 5. Adjust size, opacity, or move the image as you like.  
 
 ## Source Code
-The Python source code is included as `image_overlay.py` for reference or customization.  
+The Python source code is included as `image.py` for reference or customization.  
 You need Python 3.x and the following packages to run the code:  
 - Pillow  
 - keyboard  
